@@ -8,6 +8,7 @@ namespace FunctionDemo
 
         {
             Console.WriteLine("Eduardo A. Cariño III");
+             Console.WriteLine("BSIT 3-4");
             Console.WriteLine("Activity 1");
             Console.WriteLine("C# Function Add, Subtract, Multiply, and Divide");
 
