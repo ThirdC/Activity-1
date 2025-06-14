@@ -7,6 +7,7 @@ namespace FunctionDemo
         static void Main(string[] args)
 
         {
+            Console.WriteLine("Eduardo A. Cariño III");
             Console.WriteLine("Activity 1");
             Console.WriteLine("C# Function Add, Subtract, Multiply, and Divide");
 
